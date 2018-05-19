@@ -2,6 +2,7 @@
   "name": "derekgesin.com",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dgesindesign.com/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "prop-types": "^15.6.1",
@@ -27,6 +28,5 @@
   "devDependencies": {
     "gh-pages": "^1.1.0",
     "redux-devtools": "^3.4.1"
-  },
-  "homepage": "https://dgesin.github.io/dgesindesign.com"
+  }
 }
